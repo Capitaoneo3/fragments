@@ -3,7 +3,7 @@
   <img src="imagens/android_logo_PNG27.png" alt="Android Logo" width="120">
 <br>
 <br>
-RecyclerView
+Fragments
 </h1>
 
 <p align="center">Description</p>
@@ -19,7 +19,7 @@ A Fragment represents a reusable part of your app's UI. A fragment defines and m
 [//]: # (Add your gifs/images here:)
 <div>
   <img src="imagens/fragments.gif" alt="screen" height="425">
-  [//]: # <img src="IMAGE_2_URL" alt="demo" height="425">
+  [//]: # (<img src="IMAGE_2_URL" alt="demo" height="425">)
 </div>
 
 <hr />
